@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51242744401",
+    "project_id": "quizmate-f5ee6",
+    "storage_bucket": "quizmate-f5ee6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51242744401:android:506bd6f9bdab15490a5670",
+        "android_client_info": {
+          "package_name": "com.example.quizmateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPTs2woXuRxG2W18a0BQsxtcPNcSHva4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
